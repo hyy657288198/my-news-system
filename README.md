@@ -1,6 +1,6 @@
 ## Introduction
 
-Project comes from https://www.bilibili.com/video/BV1dP4y1c7qd?p=152
+Project comes from https://www.bilibili.com/video/BV1dP4y1c7qd?p=152 \
 JSON server is used to simulate the back-end data interface, please install it first by:
 
 ### `npm i -g json-server` 
