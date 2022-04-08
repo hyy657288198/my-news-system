@@ -3,11 +3,11 @@
 Project comes from https://www.bilibili.com/video/BV1dP4y1c7qd?p=152
 JSON server is used to simulate the back-end data interface, please install it first by:
 
-### 'npm i -g json-server' 
+### `npm i -g json-server` 
 
 and run:
 
-### 'json-server --watch .\db.json --port 5000'
+### `json-server --watch .\db.json --port 5000`
 
 ## Getting Started with Create React App
 
